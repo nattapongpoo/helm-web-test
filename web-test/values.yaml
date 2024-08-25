@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: hamelin01/web
-  tag: "current-tag"
+  tag: "b58d80e"
 
 imagePullSecrets: []
 nameOverride: ""
